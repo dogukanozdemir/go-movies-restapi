@@ -69,6 +69,8 @@ Run the command `go mod tidy` to download the necessary packages.
 
 You'll need to add a .env file and add a MongoDB connection string with the name `MONGODB_URL` to access your collection.
 
+Run the command `go run main.go` and the project should run on `locahost:8080`
+
 # License
 
 This project is licensed under the terms of the MIT license.
