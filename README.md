@@ -62,6 +62,8 @@ These are all of the endpoints:
     ```
     {"Id":"62edc90cce2de380e4782f31","Isbn":"asda","name":"daad","director":{"firstname":"adda","lastname":"adad"}}
     ```
+    
+The project is deployed on Heroku and is accessible from: https://go-movies-restapi.herokuapp.com/
 # Installation
 
 Clone the repository into a directory of your choice
